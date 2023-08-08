@@ -5,4 +5,4 @@ The landing page was created as an example of one of the millions of different l
 
 For creating this page was used: HTML with BEM methodology, CSS with preprocessor SASS and JavaScript;
 
-  [DEMO LINK](https://ibondrk.github.io/layout_dia/).
+  [DEMO LINK](https://metalikaqq.github.io/layout_dia/).
